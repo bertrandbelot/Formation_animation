@@ -492,12 +492,12 @@ Children:
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
-      Value: 50.0
+      Value: 90.0
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 250.0
+      Value: 380.0
     - Name: Height
       Type: BaseVariableType
       DataType: Size
